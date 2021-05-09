@@ -1,6 +1,6 @@
 # Rocket Project
 
-This project is based on the Rockect Landing Simulator Project developed by Adrian A. de Freitas and Troy Weingart at the US Air Force Academy in Colorado Springs, CO and shared at SIGCSE 2021.
+This project is based on the Rockect Landing Simulator Project developed by Adrian A. de Freitas and Troy Weingart at the US Air Force Academy in Colorado Springs, CO and shared at SIGCSE 2021 (it's a CS teacher conference).
 
 ## Overview
 In this project, you will create a rocket landing simulator that allows you to launch a rocket and land it on a moving boat. 
